@@ -21,6 +21,7 @@
   "resolutions": {
     "styled-components": "file:shim-modules/styled-components",
     "react-iiif-vault": "https://pkg.csb.dev/digirati-co-uk/react-iiif-vault/commit/4c9f81c5/react-iiif-vault"
+    "next-mdx-remote": "^6.0.0"
   },
   "dependencies": {
     "@iiif/parser": "https://pkg.csb.dev/IIIF-Commons/parser/commit/9c888e0c/@iiif/parser",
